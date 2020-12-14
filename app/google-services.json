@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711135409292",
+    "firebase_url": "https://micelanea-cb09d-default-rtdb.firebaseio.com",
+    "project_id": "micelanea-cb09d",
+    "storage_bucket": "micelanea-cb09d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711135409292:android:e6f7e779b2c06d3f0337a9",
+        "android_client_info": {
+          "package_name": "com.example.micelanea"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711135409292-gk8dedf8v2fblda1smfi4opjj7rukuct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxldyZPxrSnr0oiuM80giuLXvTz2nK4Os"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711135409292-gk8dedf8v2fblda1smfi4opjj7rukuct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
